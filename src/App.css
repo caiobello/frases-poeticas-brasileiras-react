@@ -46,7 +46,7 @@ body {
 }
 
 @media (max-width: 768px) {
-  body {
+  .App {
     background-image: url('backgroundcelular.PNG'); 
     background-size: 100% 100%; /* Ajuste para cobrir 100% da tela */
   }
