@@ -46,7 +46,7 @@ body {
 }
 
 @media (max-width: 768px) {
-  .App {
+  .body {
     background-image: url('backgroundcelular.PNG'); 
     background-size: cover;
   }
