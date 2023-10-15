@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import './style.css';
 
 const PoetQuoteGenerator = () => {
-  // Lista de citações e poetas fictícios (substitua com dados reais)
   const quotes = [
     {
         text: 'A beleza da vida reside nos detalhes que muitas vezes negligenciamos.',
@@ -68,7 +67,6 @@ const PoetQuoteGenerator = () => {
         text: 'O poeta é um artesão das palavras, esculpindo versos que tocam a alma.',
         author: 'Sofia Oliveira'
       },
-      // Adicione mais frases poéticas aqui...
       {
         text: 'Nas entrelinhas da vida, encontramos os segredos do coração.',
         author: 'Maria Rodrigues'
