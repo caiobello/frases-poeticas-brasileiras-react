@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Poet Quote Generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O **Poet Quote Generator** é um simples aplicativo React que gera citações aleatórias de poetas e as exibe para o usuário. É uma maneira divertida e inspiradora de começar o dia com uma dose de sabedoria. Você pode facilmente personalizar o componente com dados reais para criar um gerador de citações mais significativo.
 
-## Available Scripts
+## Funcionalidades
 
-In the project directory, you can run:
+- Geração de citações aleatórias a partir de uma lista de poetas e citações.
+- Atualização da citação exibida com um clique no botão "Nova Citação".
+- Interface de usuário atraente e responsiva.
 
-### `npm start`
+## Uso
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone o repositório ou incorpore o componente em seu projeto React.
+2. Personalize a lista de citações e poetas com dados reais.
+3. Aplique estilos adicionais ao arquivo "style.css" conforme necessário.
+4. Execute o aplicativo e desfrute das citações inspiradoras.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Como Incluir o Componente em Seu Projeto React
 
-### `npm test`
+Para incorporar o **Poet Quote Generator** em seu projeto React, siga os passos abaixo:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Copie o componente `PoetQuoteGenerator.js` para o diretório apropriado em seu projeto.
+2. Crie um arquivo `style.css` em seu projeto e cole o conteúdo CSS fornecido no exemplo.
+3. Importe o componente `PoetQuoteGenerator` em seu código React onde você deseja exibi-lo.
+4. Use o componente conforme necessário no seu aplicativo React.
 
-### `npm run build`
+## Personalização
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Você pode personalizar o aplicativo de várias maneiras:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Substitua as citações e poetas fictícios no arquivo `PoetQuoteGenerator.js` com dados reais.
+- Ajuste os estilos no arquivo `style.css` para corresponder à estética do seu projeto.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contribuindo
 
-### `npm run eject`
+Contribuições são bem-vindas! Se você deseja contribuir para este projeto, sinta-se à vontade para criar um fork, fazer suas alterações e enviar um pull request.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Nota:** Este projeto é apenas um exemplo simples de um componente React e não tem o propósito de ser usado em um ambiente de produção.
