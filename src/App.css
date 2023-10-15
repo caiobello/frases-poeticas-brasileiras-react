@@ -40,7 +40,6 @@
 body {
   background-image: url('background2.PNG');
   background-size: cover;
-  background-repeat: no-repeat;
   overflow-x: hidden; /* Isso oculta a barra de rolagem horizontal */
   overflow-y: auto;   /* Isso permite a rolagem vertical, se necessário */
 }

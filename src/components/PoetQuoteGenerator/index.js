@@ -67,6 +67,7 @@ const PoetQuoteGenerator = () => {
         text: 'O poeta é um artesão das palavras, esculpindo versos que tocam a alma.',
         author: 'Sofia Oliveira'
       },
+      // Adicione mais frases poéticas aqui...
       {
         text: 'Nas entrelinhas da vida, encontramos os segredos do coração.',
         author: 'Maria Rodrigues'
