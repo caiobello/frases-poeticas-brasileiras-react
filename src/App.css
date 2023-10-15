@@ -46,8 +46,9 @@ body {
 }
 
 @media (max-width: 768px) {
-  .body {
-    background-image: url('backgroundcelular.PNG'); 
+  body {
+    background-image: url('./backgroundcelular.PNG'); 
     background-size: cover;
+
   }
 }
